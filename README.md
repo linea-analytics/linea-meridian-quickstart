@@ -67,10 +67,5 @@ jupyter notebook
 Then open `quickstart.ipynb` and run the notebook top to bottom.
 
 ## Notes
-
-* Sampling parameters (number of chains, draws, etc.) are deliberately kept low for faster iteration. Increase these for real analyses.
-
-If you want, next step could be:
-
-* adding a “data contract” section describing the expected CSV schema, or
-* splitting this into a `quickstart` vs `production` notebook so intent is crystal clear.
+* The `quickstart.ipynb` notebook is not a production-ready implementation. This is a basic notebook, aimed at gaining familiarity with the fundamental elements of the framework.
+* An example of this are sampling parameters (number of chains, draws, etc.): these are deliberately kept low for faster iteration. Increase these for real analyses.
