@@ -69,8 +69,6 @@ Then open `quickstart.ipynb` and run the notebook top to bottom.
 ## Notes
 
 * Sampling parameters (number of chains, draws, etc.) are deliberately kept low for faster iteration. Increase these for real analyses.
-* The input data is assumed to be already aggregated and model ready. Data engineering and validation are out of scope for this repo.
-* The helper `mmm_*.py` files are intentionally lightweight and can be replaced or extended depending on your workflow.
 
 If you want, next step could be:
 
